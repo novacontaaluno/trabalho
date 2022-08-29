@@ -1,0 +1,54 @@
+header{
+    text-align: center;
+    border: 5px solid black;
+    color: red;
+}
+
+h2{
+    background: navy;
+    display: block;
+    padding: 20px;
+    font-size: 25px;
+    color: antiquewhite;
+    text-align: center;
+    
+}
+
+ul{
+    background-color: silver;
+}
+
+ul li{
+    display: inline-block;
+    vertical-align: top;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+img{
+    border: 2px solid yellow;
+    padding: 5px auto;
+    vertical-align: middle;
+    margin: 20px;
+}
+
+a{
+    padding: 15px;
+    border: 5px solid;
+    border-style: double;
+    font-size: 20px;
+    color: red;
+}
+
+iframe{
+    width: 300px;
+    height: 180;
+    vertical-align: middle;
+}
+
+footer{
+    background: black;
+    color: white;
+    text-align: center;
+    font-size: 15px;
+}
